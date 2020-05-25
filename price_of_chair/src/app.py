@@ -11,4 +11,4 @@ element = soup.find("div", {"class": "_24BG"})
 
 print(element.text)
 
-# <div class="_1cMg"><!-- react-text: 744 -->Gold @ ₹4893.34/g<!-- /react-text --><img src="https://dg-static3.paytm.com/wealthmgmt/assets/Image/reload.png" class="_2ROs"></div>
+# <div class="_1cMg"><!-- react-text: 744 -->Gold @ ₹4893.34/g<!-- /react-text --><img models="https://dg-static3.paytm.com/wealthmgmt/assets/Image/reload.png" class="_2ROs"></div>
